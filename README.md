@@ -23,17 +23,7 @@ But this one is more PURPLE!
 
 ### Previews :
 
-![Preview 1](preview/preview1.jpg)
-![Preview 2](preview/preview2.jpg)
-![Preview 3](preview/preview3.jpg)
-![Preview 4](preview/preview4.jpg)
-![Preview 5](preview/preview5.jpg)
-![Preview 6](preview/preview6.jpg)
-![Preview 7](preview/preview7.jpg)
-![Preview 8](preview/preview8.jpg)
-![Preview 9](preview/preview9.jpg)
-![Preview 10](preview/preview10-theme2.jpg)
-
+![Preview 1](preview/preview.jpg)
 
 
 ### Compatibility :
