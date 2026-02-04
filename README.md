@@ -1,4 +1,4 @@
-# Batocera Pulse Theme
+# Batocera Pulse Theme Purple
 
 
 
