@@ -66,13 +66,6 @@ rename gamelist.png in ./assets for other style version instead of main Version
 
 
 
-### theme2.xml Version:
-
-Version 2 has a light material design purple instead of gray as the accent color in the theme.
-The file can be renamed if desired, such as gamelist.png files with different Color styles.
-
-
-
 ### Gamelist Styles :
 
 * main (gamelist.png)
